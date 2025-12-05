@@ -1,0 +1,14 @@
+C:\Users\Nitro\PracticeWork8\Task1_SimpleDelegates\bin\Debug\net10.0\Task1_SimpleDelegates.exe
+C:\Users\Nitro\PracticeWork8\Task1_SimpleDelegates\bin\Debug\net10.0\Task1_SimpleDelegates.deps.json
+C:\Users\Nitro\PracticeWork8\Task1_SimpleDelegates\bin\Debug\net10.0\Task1_SimpleDelegates.runtimeconfig.json
+C:\Users\Nitro\PracticeWork8\Task1_SimpleDelegates\bin\Debug\net10.0\Task1_SimpleDelegates.dll
+C:\Users\Nitro\PracticeWork8\Task1_SimpleDelegates\bin\Debug\net10.0\Task1_SimpleDelegates.pdb
+C:\Users\Nitro\PracticeWork8\Task1_SimpleDelegates\obj\Debug\net10.0\Task1_SimpleDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\PracticeWork8\Task1_SimpleDelegates\obj\Debug\net10.0\Task1_SimpleDelegates.AssemblyInfoInputs.cache
+C:\Users\Nitro\PracticeWork8\Task1_SimpleDelegates\obj\Debug\net10.0\Task1_SimpleDelegates.AssemblyInfo.cs
+C:\Users\Nitro\PracticeWork8\Task1_SimpleDelegates\obj\Debug\net10.0\Task1_SimpleDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\PracticeWork8\Task1_SimpleDelegates\obj\Debug\net10.0\Task1_SimpleDelegates.dll
+C:\Users\Nitro\PracticeWork8\Task1_SimpleDelegates\obj\Debug\net10.0\refint\Task1_SimpleDelegates.dll
+C:\Users\Nitro\PracticeWork8\Task1_SimpleDelegates\obj\Debug\net10.0\Task1_SimpleDelegates.pdb
+C:\Users\Nitro\PracticeWork8\Task1_SimpleDelegates\obj\Debug\net10.0\Task1_SimpleDelegates.genruntimeconfig.cache
+C:\Users\Nitro\PracticeWork8\Task1_SimpleDelegates\obj\Debug\net10.0\ref\Task1_SimpleDelegates.dll

@@ -1,0 +1,14 @@
+C:\Users\Nitro\PracticeWork8\Task2_GroupDelegates\bin\Debug\net10.0\Task2_GroupDelegates.exe
+C:\Users\Nitro\PracticeWork8\Task2_GroupDelegates\bin\Debug\net10.0\Task2_GroupDelegates.deps.json
+C:\Users\Nitro\PracticeWork8\Task2_GroupDelegates\bin\Debug\net10.0\Task2_GroupDelegates.runtimeconfig.json
+C:\Users\Nitro\PracticeWork8\Task2_GroupDelegates\bin\Debug\net10.0\Task2_GroupDelegates.dll
+C:\Users\Nitro\PracticeWork8\Task2_GroupDelegates\bin\Debug\net10.0\Task2_GroupDelegates.pdb
+C:\Users\Nitro\PracticeWork8\Task2_GroupDelegates\obj\Debug\net10.0\Task2_GroupDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\PracticeWork8\Task2_GroupDelegates\obj\Debug\net10.0\Task2_GroupDelegates.AssemblyInfoInputs.cache
+C:\Users\Nitro\PracticeWork8\Task2_GroupDelegates\obj\Debug\net10.0\Task2_GroupDelegates.AssemblyInfo.cs
+C:\Users\Nitro\PracticeWork8\Task2_GroupDelegates\obj\Debug\net10.0\Task2_GroupDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\PracticeWork8\Task2_GroupDelegates\obj\Debug\net10.0\Task2_GroupDelegates.dll
+C:\Users\Nitro\PracticeWork8\Task2_GroupDelegates\obj\Debug\net10.0\refint\Task2_GroupDelegates.dll
+C:\Users\Nitro\PracticeWork8\Task2_GroupDelegates\obj\Debug\net10.0\Task2_GroupDelegates.pdb
+C:\Users\Nitro\PracticeWork8\Task2_GroupDelegates\obj\Debug\net10.0\Task2_GroupDelegates.genruntimeconfig.cache
+C:\Users\Nitro\PracticeWork8\Task2_GroupDelegates\obj\Debug\net10.0\ref\Task2_GroupDelegates.dll
